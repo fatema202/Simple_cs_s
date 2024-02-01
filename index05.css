@@ -1,0 +1,54 @@
+body {
+    background-image: url("sky.gif");
+    background-color: #b3dfc7;
+  }
+  
+.heading{
+    background:lightcyan;
+    font-size: 30px;
+    color: black;
+    text-align: center;
+
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+.mean{
+    text-align: center;
+    font-size: 50px;
+}
+.head1{
+    font-size: 20px;
+   
+}
+.head2{
+    font-size: 50px; 
+    color:black;
+
+}
+
+.div{
+    color:black;
+    text-align:left;
+    font-size: 20px; 
+}
+.mark{
+     background-color:gold;
+    font-size:40px;
+}
+.head4{
+    color:white;
+}
+.head5{
+    font-size: 20px;
+}
+.head6{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
